@@ -1,0 +1,12 @@
+{
+  "name": "grzegorzdrozd/web_dev_calendar",
+  "description": "Example applciation. Schedule with availability calculations",
+  "minimum-stability": "RC",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Grzegorz Drozd",
+      "email": "grzegorz.drozd@gmail.com"
+    }
+  ]
+}
