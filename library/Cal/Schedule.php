@@ -5,7 +5,7 @@
  * @license LICENSE.TXT
  * @author  Grzegorz Drozd <grzegorz.drozd@gmail.com>
  * @date    2015-03-11
- * @package web_dev_calendar
+ * @package example-calendar
  */
 
 namespace Cal;
